@@ -1,0 +1,9 @@
+{
+  "name": "Mi contador",
+  "short_name": "Contador",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10101d",
+  "theme_color": "#17172b"
+}
